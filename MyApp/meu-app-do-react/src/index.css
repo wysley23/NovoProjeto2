@@ -1,0 +1,52 @@
+.ClassContador {
+  text-align: center;
+  background-color: rgb(14, 45, 224);
+  border-radius: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 30px;
+  color: red;
+}
+
+.Logo192 {
+  background-image: url(./componente/img/Logo.png);
+  background-color: black;
+  background-size: 120px;
+  display: block;
+  text-align: center;
+  padding: auto;
+  margin: auto;
+  height: 130px;
+  width: 120px;
+}
+
+body {
+  background-color: rgb(5, 0, 0);
+  color: white;
+  font-size: 40px;
+  font-family: arial;
+  text-align: center;
+  text-shadow: 5px 1px 1px #4509f7
+}
+
+.botao:hover {
+  background-color: green;
+  color: red;
+}
+
+/*
+body {
+  margin-bottom: 30px;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+*/
